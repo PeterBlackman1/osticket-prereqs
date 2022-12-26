@@ -1,5 +1,5 @@
 
-<h2>👨‍💻 Information Technology Projects:</h2># osticket-prereqs <p align="center">
+<p align="center">
 
 <img src="https://i.imgur.com/Clzj7Xs.png" alt="osTicket logo"/>
 </p>
