@@ -34,6 +34,9 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 <p>
 <img width="1309" alt="Web Platform Installer" src="https://user-images.githubusercontent.com/120864279/209480791-4c20d5e8-ab95-42ed-92f2-ec2d85246ac9.png">
 </p>
+
+<img width="1440" alt="Install PHP x86" src="https://user-images.githubusercontent.com/120864279/209723829-46e6bc3f-add1-48f7-a72b-e45e51b48fd4.png">
+
 <p>
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
 </p>
