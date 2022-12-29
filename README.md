@@ -56,9 +56,22 @@ This tutorial outlines the prerequisites and installation of the open-source hel
   
 <p>
 
-<img width="1440" alt="Copy upload file into Inetpub pt 3" src="https://user-images.githubusercontent.com/120864279/210000746-c1397922-0967-418b-bbfa-6eff12577653.png">
+
+<img width="1440" alt="Rename upload folder to osTicket pt 4" src="https://user-images.githubusercontent.com/120864279/210003287-8e51e69f-c2ee-4de0-aa90-a51924e41885.png">
 
 <p>
-  
+
+
+<img width="1440" alt="Reload IIS Restart machine pt 5" src="https://user-images.githubusercontent.com/120864279/210003333-f5007dbe-6693-46c8-9bbe-f026f757793e.png">
+
+<p>
+
+<img width="1440" alt="Browse osTicket click Browse80 pt 6" src="https://user-images.githubusercontent.com/120864279/210003460-7da43cff-9995-4864-af9d-b95368dd4fdc.png">
+
+
+<p>
+
+<img width="1440" alt="osTicket screen after browse pt 7" src="https://user-images.githubusercontent.com/120864279/210003667-eff3daf4-16a6-4a2a-9655-6764b6f760db.png">
+
 
   
