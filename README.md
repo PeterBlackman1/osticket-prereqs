@@ -48,6 +48,8 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 
 <p>
 
+<img width="1440" alt="Download and extract osTicket pt 2" src="https://user-images.githubusercontent.com/120864279/209998081-cf5d16b9-ebb8-4d2d-b7a8-910cc88d50d5.png">
+
   
 <p>
 
