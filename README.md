@@ -41,3 +41,5 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 
 
 <p>
+
+<img width="1440" alt="My SQL" src="https://user-images.githubusercontent.com/120864279/209996803-e5cf47c6-2212-47f1-a6b7-65e395ccca21.png">
