@@ -33,7 +33,12 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 
 <p>
 <img width="1309" alt="Web Platform Installer" src="https://user-images.githubusercontent.com/120864279/209480791-4c20d5e8-ab95-42ed-92f2-ec2d85246ac9.png">
+  
 </p>
+
+<img width="1440" alt="My SQL" src="https://user-images.githubusercontent.com/120864279/209996803-e5cf47c6-2212-47f1-a6b7-65e395ccca21.png">
+
+<p>
 
 <img width="1440" alt="Install PHP x86" src="https://user-images.githubusercontent.com/120864279/209723829-46e6bc3f-add1-48f7-a72b-e45e51b48fd4.png">
 
@@ -42,4 +47,5 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 
 <p>
 
-<img width="1440" alt="My SQL" src="https://user-images.githubusercontent.com/120864279/209996803-e5cf47c6-2212-47f1-a6b7-65e395ccca21.png">
+
+  
