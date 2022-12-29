@@ -76,7 +76,8 @@ Change the name of the upload folder to osTicket when the file is finished copyi
 
 <p>
 
-<img width="1440" alt="Browse osTicket click Browse80 pt 6" src="https://user-images.githubusercontent.com/120864279/210003460-7da43cff-9995-4864-af9d-b95368dd4fdc.png">
+<img width="1440" alt="Screen Shot 2022-12-29 at 4 10 12 PM" src="https://user-images.githubusercontent.com/120864279/210015802-1771ea64-86a6-41b9-969a-f29a6e489a1e.png">
+>
 
   I open Internet Informations Systems and click stop then start on the right side of the panel. Once machine starts I click the dropdown arrow next the the name under connections, sites, Default Web Site, and the osTicket. After clicking osTicket I click the "Browse*:80 (http)" button on the right side of the page and the browser opens.
   
