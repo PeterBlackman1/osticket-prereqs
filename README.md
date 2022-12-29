@@ -89,9 +89,6 @@ Change the name of the upload folder to osTicket when the file is finished copyi
 
 <p>
   
- <img width="1440" alt="Install PHP manager pt 0 5" src="https://user-images.githubusercontent.com/120864279/210014768-b43bc826-63dd-49eb-bef6-0b3536f7b70b.png">
-
-  I went back to IIS and clickd on PHP manager 
   
 <img width="1440" alt="Enable extentions PHP manager pt 8" src="https://user-images.githubusercontent.com/120864279/210005841-bab0a0cb-e7e8-48ef-950f-68872cb8529e.png">
 
