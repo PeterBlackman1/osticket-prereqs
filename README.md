@@ -36,24 +36,19 @@ I'm going into the control panel to enable Internet Informations Systems so I'll
 <p>
 <img width="1309" alt="Web Platform Installer" src="https://user-images.githubusercontent.com/120864279/209480791-4c20d5e8-ab95-42ed-92f2-ec2d85246ac9.png">
   
-Downloading the Web Platform Installer to open and install key components needed to run osTicket
+Downloading the Web Platform Installer to open and install key components needed to run osTicket.
 </p>
 
 <img width="1440" alt="My SQL" src="https://user-images.githubusercontent.com/120864279/209996803-e5cf47c6-2212-47f1-a6b7-65e395ccca21.png">
-Adding MySQL and all simple versions of x86 PHP up until 7.3. Then I'll click install and if there's any failures I go back and fix them by downloading the proper files.
+Adding MySQL and all simple versions of x86 PHP up until 7.3. Then I'll click install and if there's any failures I go back and fix them by downloading the proper files. After I'm done I'll add the Microsoft Visual C++ redistributable package.
+
+
 <p>
 
 
- <img width="1440" alt="Install Visual C++ pt 1" src="https://user-images.githubusercontent.com/120864279/209997678-8e2babdc-421f-4a0f-a010-3dc5ef52bc5c.png">
-
-<p>
-
-<img width="1440" alt="Download and extract osTicket pt 2" src="https://user-images.githubusercontent.com/120864279/209998081-cf5d16b9-ebb8-4d2d-b7a8-910cc88d50d5.png">
-
-<p>
   
 <img width="1440" alt="Copy upload file into Inetpub pt 3" src="https://user-images.githubusercontent.com/120864279/209999150-23d8b40b-d91b-4f6b-9521-0099157bc508.png">
-  
+  Downloading osTicket, followed by extracting and copying the upload folder to the root folder. Change the name of the upload folder to osTicket when the file is finished copying. 
 <p>
 
 
