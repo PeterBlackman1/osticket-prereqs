@@ -36,15 +36,13 @@ I'm going into the control panel to enable Internet Informations Systems so I'll
 <p>
 <img width="1309" alt="Web Platform Installer" src="https://user-images.githubusercontent.com/120864279/209480791-4c20d5e8-ab95-42ed-92f2-ec2d85246ac9.png">
   
+Downloading the Web Platform Installer to open and install key components needed to run osTicket
 </p>
 
 <img width="1440" alt="My SQL" src="https://user-images.githubusercontent.com/120864279/209996803-e5cf47c6-2212-47f1-a6b7-65e395ccca21.png">
-
+Adding MySQL and all simple versions of x86 PHP up until 7.3. Then I'll click install and if there's any failures I go back and fix them by downloading the proper files.
 <p>
 
-<img width="1440" alt="Install PHP x86" src="https://user-images.githubusercontent.com/120864279/209723829-46e6bc3f-add1-48f7-a72b-e45e51b48fd4.png">
-
-<p>
 
  <img width="1440" alt="Install Visual C++ pt 1" src="https://user-images.githubusercontent.com/120864279/209997678-8e2babdc-421f-4a0f-a010-3dc5ef52bc5c.png">
 
