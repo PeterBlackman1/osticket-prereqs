@@ -31,15 +31,24 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 
 <img width="1440" alt="Screen Shot 2022-12-25 at 3 05 57 PM" src="https://user-images.githubusercontent.com/120864279/209482177-604bbd28-2c18-478c-8969-bd3739d7b091.png">
 
+
 I'm going into the control panel to enable Internet Informations Systems so I'll be able to deploy the osTicket on the web server.
 
 <p>
-<img width="1309" alt="Web Platform Installer" src="https://user-images.githubusercontent.com/120864279/209480791-4c20d5e8-ab95-42ed-92f2-ec2d85246ac9.png">
+
+  
+  <img width="1309" alt="Web Platform Installer" src="https://user-images.githubusercontent.com/120864279/209480791-4c20d5e8-ab95-42ed-92f2-ec2d85246ac9.png">
+
+  
   
 Downloading the Web Platform Installer to open and install key components needed to run osTicket.
+
+
 </p>
 
 <img width="1440" alt="My SQL" src="https://user-images.githubusercontent.com/120864279/209996803-e5cf47c6-2212-47f1-a6b7-65e395ccca21.png">
+
+
 Adding MySQL and all simple versions of x86 PHP up until 7.3. Then I'll click install and if there's any failures I go back and fix them by downloading the proper files. After I'm done I'll add the Microsoft Visual C++ redistributable package.
 
 
@@ -48,11 +57,16 @@ Adding MySQL and all simple versions of x86 PHP up until 7.3. Then I'll click in
 
   
 <img width="1440" alt="Copy upload file into Inetpub pt 3" src="https://user-images.githubusercontent.com/120864279/209999150-23d8b40b-d91b-4f6b-9521-0099157bc508.png">
-  Downloading osTicket, followed by extracting and copying the upload folder to the root folder. Change the name of the upload folder to osTicket when the file is finished copying. 
-<p>
+  
+  
+Downloading osTicket, followed by extracting and copying the upload folder to the root folder. 
 
 
 <img width="1440" alt="Rename upload folder to osTicket pt 4" src="https://user-images.githubusercontent.com/120864279/210003287-8e51e69f-c2ee-4de0-aa90-a51924e41885.png">
+  
+  
+Change the name of the upload folder to osTicket when the file is finished copying. 
+
 
 <p>
 
