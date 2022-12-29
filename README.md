@@ -44,7 +44,11 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 
 <p>
 
+ <img width="1440" alt="Install Visual C++ pt 1" src="https://user-images.githubusercontent.com/120864279/209997678-8e2babdc-421f-4a0f-a010-3dc5ef52bc5c.png">
 
+<p>
+
+  
 <p>
 
 
