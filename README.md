@@ -73,5 +73,32 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 
 <img width="1440" alt="osTicket screen after browse pt 7" src="https://user-images.githubusercontent.com/120864279/210003667-eff3daf4-16a6-4a2a-9655-6764b6f760db.png">
 
-
+<p>
   
+<img width="1440" alt="Enable extentions PHP manager pt 8" src="https://user-images.githubusercontent.com/120864279/210005841-bab0a0cb-e7e8-48ef-950f-68872cb8529e.png">
+
+<p>
+
+<img width="1440" alt="After refresh os pt 9" src="https://user-images.githubusercontent.com/120864279/210005884-3b055781-c5a9-41b0-b9ed-98f94a1101b7.png">
+
+<p>
+
+<img width="1440" alt="Rename ost pt 10" src="https://user-images.githubusercontent.com/120864279/210005917-da53e064-9560-4083-be0d-36dde561e6b0.png">
+
+<p>
+
+
+<img width="1440" alt="Disable inheritance pt 11" src="https://user-images.githubusercontent.com/120864279/210005943-88302711-3a12-4df8-8765-87dc3922d1af.png">
+
+<p>
+
+<img width="1440" alt="Enable enheritance pt 12 5" src="https://user-images.githubusercontent.com/120864279/210005992-fa95623d-4738-44da-96ef-ae8802bdaf7a.png">
+
+<p>
+
+<img width="1440" alt="osTicket Basic installation pt 13" src="https://user-images.githubusercontent.com/120864279/210006076-ac0839b7-5790-4889-9df3-18fe8b19bceb.png">
+
+<p>
+
+<img width="1440" alt="Install Heidi pt 14" src="https://user-images.githubusercontent.com/120864279/210006102-24ca8d18-4436-4077-8137-15a946f016ba.png">
+
