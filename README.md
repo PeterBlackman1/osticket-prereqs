@@ -68,19 +68,20 @@ Downloading osTicket, followed by extracting and copying the upload folder to th
 Change the name of the upload folder to osTicket when the file is finished copying. 
 
 
-<p>
 
-
-<img width="1440" alt="Reload IIS Restart machine pt 5" src="https://user-images.githubusercontent.com/120864279/210003333-f5007dbe-6693-46c8-9bbe-f026f757793e.png">
 
 <p>
 
 <img width="1440" alt="Browse osTicket click Browse80 pt 6" src="https://user-images.githubusercontent.com/120864279/210003460-7da43cff-9995-4864-af9d-b95368dd4fdc.png">
 
+  I open Internet Informations Systems and click reset on the right side of the panel. Once maching has finished resetting I click the name under connections, sites, Default Web Site, and the osTicket. After clicking osTicket I click the "Browse*:80 (http)" button and the browser opens.
+  
 
 <p>
 
 <img width="1440" alt="osTicket screen after browse pt 7" src="https://user-images.githubusercontent.com/120864279/210003667-eff3daf4-16a6-4a2a-9655-6764b6f760db.png">
+  
+  Screen after clicking "Browse*:80" on the Internet Informations Systems page. 
 
 <p>
   
