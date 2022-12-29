@@ -41,9 +41,13 @@ I'm going into the control panel to enable Internet Informations Systems so I'll
 
   
   
-Downloading the Web Platform Installer to open and install key components needed to run osTicket.
+Downloading the Web Platform Installer and open to install key components needed to run osTicket.
 
+<p>
 
+<img width="1440" alt="Install PHP manager pt 0 5" src="https://user-images.githubusercontent.com/120864279/210012275-f718b78e-23e5-4722-a01f-caadf9d3cb4f.png">
+
+Downloading and installing PHP Manager 
 </p>
 
 <img width="1440" alt="My SQL" src="https://user-images.githubusercontent.com/120864279/209996803-e5cf47c6-2212-47f1-a6b7-65e395ccca21.png">
