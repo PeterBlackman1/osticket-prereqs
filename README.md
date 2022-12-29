@@ -56,6 +56,8 @@ This tutorial outlines the prerequisites and installation of the open-source hel
   
 <p>
 
+<img width="1440" alt="Copy upload file into Inetpub pt 3" src="https://user-images.githubusercontent.com/120864279/210000746-c1397922-0967-418b-bbfa-6eff12577653.png">
+
 <p>
   
 
