@@ -101,7 +101,8 @@ Change the name of the upload folder to osTicket when the file is finished copyi
   Enabling extentions that are needed to improve localization. Enable the php_imap.dll, php_intl.dll, php_opache.dll extensions.
 <p>
 
-<img width="1440" alt="After refresh os pt 9" src="https://user-images.githubusercontent.com/120864279/210005884-3b055781-c5a9-41b0-b9ed-98f94a1101b7.png">
+<img width="1440" alt="After refresh os pt 9" src="https://user-images.githubusercontent.com/120864279/210158218-60f7c1e3-d60d-40a2-9265-aa71718283c0.png">
+
 
 <p>
 
