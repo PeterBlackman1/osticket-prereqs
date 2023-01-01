@@ -107,7 +107,8 @@ Screen after enabling extensions. Notice the Intl extension now has a check mark
 <p>
 
 <img width="1440" alt="Rename ost pt 10" src="https://user-images.githubusercontent.com/120864279/210005917-da53e064-9560-4083-be0d-36dde561e6b0.png">
- Rename the C:\inetpub\wwwroots\osTicket\include\ost-sampleconfig.php to C:\inetpub\wwwroots\osTicket\include\ost-config.php 
+ Rename the C:\inetpub\wwwroots\osTicket\include\ost-sampleconfig.php 
+  to C:\inetpub\wwwroots\osTicket\include\ost-config.php 
 <p>
 
 
@@ -116,7 +117,7 @@ Screen after enabling extensions. Notice the Intl extension now has a check mark
 <p>
 
 <img width="1440" alt="Enable enheritance pt 12 5" src="https://user-images.githubusercontent.com/120864279/210005992-fa95623d-4738-44da-96ef-ae8802bdaf7a.png">
-
+Right-click the ost-config folder then click properties - security - users - edit - users - allow full control - apply - okay
 <p>
 
 <img width="1440" alt="osTicket Basic installation pt 13" src="https://user-images.githubusercontent.com/120864279/210006076-ac0839b7-5790-4889-9df3-18fe8b19bceb.png">
