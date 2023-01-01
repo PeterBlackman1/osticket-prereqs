@@ -113,11 +113,10 @@ Screen after enabling extensions. Notice the Intl extension now has a check mark
 
 
 <img width="1440" alt="Disable inheritance pt 11" src="https://user-images.githubusercontent.com/120864279/210005943-88302711-3a12-4df8-8765-87dc3922d1af.png">
-
+Right-click the ost-config folder then click properties - security - users - edit - users -  full control - apply - okay
 <p>
 
-<img width="1440" alt="Enable enheritance pt 12 5" src="https://user-images.githubusercontent.com/120864279/210005992-fa95623d-4738-44da-96ef-ae8802bdaf7a.png">
-Right-click the ost-config folder then click properties - security - users - edit - users - allow full control - apply - okay
+
 <p>
 
 <img width="1440" alt="osTicket Basic installation pt 13" src="https://user-images.githubusercontent.com/120864279/210006076-ac0839b7-5790-4889-9df3-18fe8b19bceb.png">
