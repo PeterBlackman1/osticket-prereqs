@@ -120,8 +120,8 @@ Right-click the ost-config folder then click properties - security - users - edi
 <p>
 
 <img width="1440" alt="osTicket Basic installation pt 13" src="https://user-images.githubusercontent.com/120864279/210006076-ac0839b7-5790-4889-9df3-18fe8b19bceb.png">
-
+After assigning permissions, I hit continue on the osTicket installer and it takes me to this screen. Here I fill out everything under the System settings and Admin User section. 
 <p>
 
 <img width="1440" alt="Install Heidi pt 14" src="https://user-images.githubusercontent.com/120864279/210006102-24ca8d18-4436-4077-8137-15a946f016ba.png">
-
+After filling out the info install Heidi to create the database to sue for osTicket.
