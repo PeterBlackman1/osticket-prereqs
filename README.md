@@ -102,12 +102,12 @@ Change the name of the upload folder to osTicket when the file is finished copyi
 <p>
 
 <img width="1440" alt="After refresh os pt 9" src="https://user-images.githubusercontent.com/120864279/210158218-60f7c1e3-d60d-40a2-9265-aa71718283c0.png">
-
+Screen after enabling extensions. Notice the Intl extension now has a check mark.
 
 <p>
 
 <img width="1440" alt="Rename ost pt 10" src="https://user-images.githubusercontent.com/120864279/210005917-da53e064-9560-4083-be0d-36dde561e6b0.png">
-
+ Rename the C:\inetpub\wwwroots\osTicket\include\ost-sampleconfig.php to C:\inetpub\wwwroots\osTicket\include\ost-config.php 
 <p>
 
 
