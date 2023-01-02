@@ -124,4 +124,4 @@ After assigning permissions, I hit continue on the osTicket installer and it tak
 <p>
 
 <img width="1440" alt="Install Heidi pt 14" src="https://user-images.githubusercontent.com/120864279/210006102-24ca8d18-4436-4077-8137-15a946f016ba.png">
-After filling out the info install Heidi to create the database to sue for osTicket.
+After filling out the info install Heidi to create the database to use for osTicket.
