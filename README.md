@@ -63,7 +63,7 @@ Adding MySQL and all simple versions of x86 PHP up until 7.3, then I'll click in
  
 <img width="1440" alt="Screen Shot 2023-01-03 at 1 56 09 PM" src="https://user-images.githubusercontent.com/120864279/210431931-0a31d788-40c6-4c9a-9917-2799416c56b0.png">
   
- WHile adding My SQL this window appears asking the input the password to go with the root username the password is Password1
+ While adding My SQL this window appears asking the input the password to go with the root username the password is Password1
 
   <p>
   
