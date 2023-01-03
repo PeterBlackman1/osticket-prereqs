@@ -29,7 +29,8 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 
 <h2>Installation Steps</h2>
 
-<img width="1440" alt="Screen Shot 2022-12-25 at 3 05 57 PM" src="https://user-images.githubusercontent.com/120864279/209482177-604bbd28-2c18-478c-8969-bd3739d7b091.png">
+https://user-images.githubusercontent.com/120864279/210416032-df9ac818-54f2-4c18-928f-b7a05b2332be.mp4
+
 
 
 I'm going into the control panel to enable Internet Informations Systems so I'll be able to deploy the osTicket on the web server.
