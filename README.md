@@ -38,7 +38,8 @@ I'm going into the control panel to enable Internet Informations Systems so I'll
 <p>
 
   
-  <img width="1309" alt="Web Platform Installer" src="https://user-images.githubusercontent.com/120864279/209480791-4c20d5e8-ab95-42ed-92f2-ec2d85246ac9.png">
+
+https://user-images.githubusercontent.com/120864279/210423971-4d648d8b-27c9-4dc5-9f83-b84f5c291941.mov
 
   
   
