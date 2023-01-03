@@ -47,36 +47,33 @@ Downloading the Web Platform Installer and open to install key components needed
 
 <p>
 
+https://user-images.githubusercontent.com/120864279/210436025-5e8933b1-c1ee-4245-91e0-5cca54e751ff.mov
+
+Download and Add 5.5 MySQL and all simple versions of x86 PHP up until 7.3 then install. While adding My SQL this window appears asking the input the password to go with the root username the password is Password1. After I enter the password and continue I let the files continue to be added. If there's any failures I go back and fix them by downloading the proper files. After I'm done I'll add the Microsoft Visual C++ redistributable package. 
+
+ <p>
+   
+   
 <img width="1440" alt="Install PHP manager pt 0 5" src="https://user-images.githubusercontent.com/120864279/210012275-f718b78e-23e5-4722-a01f-caadf9d3cb4f.png">
 
-Downloading and installing PHP Manager 
+Downloading and installing PHP Manager 1.5.0. for IIS 10
 </p>
 
-<img width="1440" alt="My SQL" src="https://user-images.githubusercontent.com/120864279/209996803-e5cf47c6-2212-47f1-a6b7-65e395ccca21.png">
 
 
-Adding MySQL and all simple versions of x86 PHP up until 7.3, then I'll click install.  if there's any failures I go back and fix them by downloading the proper files. After I'm done I'll add the Microsoft Visual C++ redistributable package.
-
-
-<p>
-
- 
-<img width="1440" alt="Screen Shot 2023-01-03 at 1 56 09 PM" src="https://user-images.githubusercontent.com/120864279/210431931-0a31d788-40c6-4c9a-9917-2799416c56b0.png">
-  
- While adding My SQL this window appears asking the input the password to go with the root username the password is Password1
 
   <p>
   
 <img width="1440" alt="Copy upload file into Inetpub pt 3" src="https://user-images.githubusercontent.com/120864279/209999150-23d8b40b-d91b-4f6b-9521-0099157bc508.png">
   
   
-Downloading osTicket, followed by extracting and copying the upload folder to the root folder. 
+Downloading osTicket, followed by extracting and copying the upload folder to the c:\inetpub\wwwroot folder. 
 
 
 <img width="1440" alt="Rename upload folder to osTicket pt 4" src="https://user-images.githubusercontent.com/120864279/210003287-8e51e69f-c2ee-4de0-aa90-a51924e41885.png">
   
   
-Change the name of the upload folder to osTicket when the file is finished copying. 
+Change the name of the "upload" folder to "osTicket" when the file is finished copying. 
 
 
 
