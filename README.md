@@ -55,12 +55,17 @@ Downloading and installing PHP Manager
 <img width="1440" alt="My SQL" src="https://user-images.githubusercontent.com/120864279/209996803-e5cf47c6-2212-47f1-a6b7-65e395ccca21.png">
 
 
-Adding MySQL and all simple versions of x86 PHP up until 7.3. Then I'll click install and if there's any failures I go back and fix them by downloading the proper files. After I'm done I'll add the Microsoft Visual C++ redistributable package.
+Adding MySQL and all simple versions of x86 PHP up until 7.3, then I'll click install.  if there's any failures I go back and fix them by downloading the proper files. After I'm done I'll add the Microsoft Visual C++ redistributable package.
 
 
 <p>
 
+ 
+<img width="1440" alt="Screen Shot 2023-01-03 at 1 56 09 PM" src="https://user-images.githubusercontent.com/120864279/210431931-0a31d788-40c6-4c9a-9917-2799416c56b0.png">
+  
+ WHile adding My SQL this window appears asking the input the password to go with the root username the password is Password1
 
+  <p>
   
 <img width="1440" alt="Copy upload file into Inetpub pt 3" src="https://user-images.githubusercontent.com/120864279/209999150-23d8b40b-d91b-4f6b-9521-0099157bc508.png">
   
