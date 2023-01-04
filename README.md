@@ -132,4 +132,3 @@ After filling out the info install Heidi to create the database to use for osTic
 
 <p>
   
- https://user-images.githubusercontent.com/120864279/210255560-e50bc4c4-f6e3-4b31-a024-9008c35245de.mp4
