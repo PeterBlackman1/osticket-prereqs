@@ -49,9 +49,14 @@ Downloading the Web Platform Installer and open to install key components needed
 
 https://user-images.githubusercontent.com/120864279/210436025-5e8933b1-c1ee-4245-91e0-5cca54e751ff.mov
 
-Download and Add 5.5 MySQL and all simple versions of x86 PHP up until 7.3 then install. While adding My SQL this window appears asking the input the password to go with the root username the password is Password1. After I enter the password and continue I let the files continue to be added. If there's any failures I go back and fix them by downloading the proper files. After I'm done I'll add the Microsoft Visual C++ redistributable package. 
+Download and Add MySQL 5.5
 
  <p>
+   
+  
+<img width="1440" alt="Screen Shot 2023-01-03 at 1 56 09 PM" src="https://user-images.githubusercontent.com/120864279/210481815-d7112059-eead-4318-8473-fd24fe637c1a.png">
+
+While adding My SQL this window appears asking the input the password to go with the root username the password is Password1. After I enter the password and continue I let the files continue to be added. If there's any failures I go back and fix them by downloading the proper files. After I'm done I'll add the Microsoft Visual C++ redistributable package. 
    
    
 <img width="1440" alt="Install PHP manager pt 0 5" src="https://user-images.githubusercontent.com/120864279/210012275-f718b78e-23e5-4722-a01f-caadf9d3cb4f.png">
