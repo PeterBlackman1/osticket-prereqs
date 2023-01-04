@@ -81,7 +81,7 @@ Downloading the Microsoft Visual C++ redistributable package.
 <img width="1440" alt="Copy upload file into Inetpub pt 3" src="https://user-images.githubusercontent.com/120864279/209999150-23d8b40b-d91b-4f6b-9521-0099157bc508.png">
   
   
-Downloading osTicket, followed by extracting and copying the upload folder to the c:\inetpub\wwwroot folder. 
+Downloading osTicket-v1.15.8, followed by extracting and copying the upload folder to the c:\inetpub\wwwroot folder. 
 
 
 <img width="1440" alt="Rename upload folder to osTicket pt 4" src="https://user-images.githubusercontent.com/120864279/210003287-8e51e69f-c2ee-4de0-aa90-a51924e41885.png">
