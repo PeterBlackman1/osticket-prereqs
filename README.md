@@ -56,7 +56,14 @@ Download and Add MySQL 5.5 and PHP Version 7.3.8 or any versions necessary.
   
 <img width="1440" alt="Screen Shot 2023-01-03 at 1 56 09 PM" src="https://user-images.githubusercontent.com/120864279/210481815-d7112059-eead-4318-8473-fd24fe637c1a.png">
 
-While adding My SQL this window appears asking the input the password to go with the root username the password is Password1. After I enter the password and continue I let the files continue to be added. If there's any failures I go back and fix them by downloading the proper files. After I'm done I'll add the Microsoft Visual C++ redistributable package. 
+While adding My SQL this window appears asking the input the password to go with the root username the password is Password1. After I enter the password and continue I let the files continue to be added. After complete I check to see if there are any failures that I need to fix.
+
+<p>
+
+<img width="1440" alt="Screen Shot 2023-01-03 at 10 50 55 PM" src="https://user-images.githubusercontent.com/120864279/210486675-477e4a14-864f-4181-81bb-a9c880b32f9d.png">
+
+
+If there's any failures I go back and fix them by downloading the proper files. After I'm done I'll add the Microsoft Visual C++ redistributable package. 
    
    
 <img width="1440" alt="Install PHP manager pt 0 5" src="https://user-images.githubusercontent.com/120864279/210012275-f718b78e-23e5-4722-a01f-caadf9d3cb4f.png">
