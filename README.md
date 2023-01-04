@@ -49,7 +49,7 @@ Downloading the Web Platform Installer and open to install key components needed
 
 https://user-images.githubusercontent.com/120864279/210436025-5e8933b1-c1ee-4245-91e0-5cca54e751ff.mov
 
-Download and Add MySQL 5.5
+Download and Add MySQL 5.5 and PHP Version 7.3.8 or any versions necessary.
 
  <p>
    
