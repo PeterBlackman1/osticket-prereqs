@@ -63,7 +63,7 @@ While adding My SQL this window appears asking the input the password to go with
 <img width="1440" alt="Screen Shot 2023-01-03 at 10 50 55 PM" src="https://user-images.githubusercontent.com/120864279/210486675-477e4a14-864f-4181-81bb-a9c880b32f9d.png">
 
 
-If there's any failures I go back and fix them by downloading the proper files. I download Microsoft Visual C++ redistributable package and PHP Manager 1.5.0 for IIS
+If there's any failures I go back and fix them by downloading the proper files. I download PHP Manager 1.5.0 for IIS and then Microsoft Visual C++ redistributable package.
    
    
 <img width="1440" alt="Install PHP manager pt 0 5" src="https://user-images.githubusercontent.com/120864279/210012275-f718b78e-23e5-4722-a01f-caadf9d3cb4f.png">
@@ -72,7 +72,9 @@ Downloading and installing PHP Manager 1.5.0. for IIS 10
 </p>
 
 
+<img width="1440" alt="Screen Shot 2023-01-04 at 2 16 28 PM" src="https://user-images.githubusercontent.com/120864279/210641987-a57ba4ad-ac72-4444-83e3-f32b8726d848.png">
 
+Downloading the Microsoft Visual C++ redistributable package.
 
   <p>
   
