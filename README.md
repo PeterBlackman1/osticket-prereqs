@@ -161,3 +161,13 @@ After filling out the info install Heidi to create the database to use for osTic
 
 <p>
   
+
+![Start new](https://user-images.githubusercontent.com/120864279/211086059-e7b8a9f3-0d7b-4356-a0ad-4c4505cd3c87.png)
+
+ Open Heidi and click new.
+
+<p>
+
+![SQL PW](https://user-images.githubusercontent.com/120864279/211085463-da1d07c2-bbc8-417b-94e3-dddd9ecc97b2.png)
+
+The username and password that was entered when downloading MySql 5.5 is used here. The username should already be input.
