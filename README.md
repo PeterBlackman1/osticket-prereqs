@@ -171,3 +171,12 @@ After filling out the info install Heidi to create the database to use for osTic
 ![SQL PW](https://user-images.githubusercontent.com/120864279/211085463-da1d07c2-bbc8-417b-94e3-dddd9ecc97b2.png)
 
 The username and password that was entered when downloading MySql 5.5 is used here. The username should already be input.
+
+ <p>
+   
+  ![Screen Shot 2023-01-06 at 1 40 56 PM (2)](https://user-images.githubusercontent.com/120864279/211087582-05b14bab-b50e-471b-a9fd-78c25a6231da.png)
+   
+   
+ When I get to this screen I have to create a database for osTicket. I right-click the field under unnamed and go to create new, followed by database
+   
+ <p>
