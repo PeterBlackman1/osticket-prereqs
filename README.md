@@ -180,3 +180,8 @@ The username and password that was entered when downloading MySql 5.5 is used he
  When I get to this screen I have to create a database for osTicket. I right-click the field under unnamed and go to create new, followed by database
    
  <p>
+
+   
+ ![Screen Shot 2023-01-06 at 1 54 35 PM (2)](https://user-images.githubusercontent.com/120864279/211089576-de7fecb4-c0d5-4b19-96b3-28d7e49fae6f.png)
+
+Name the database osTicket. 
