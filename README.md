@@ -192,8 +192,9 @@ Name the database osTicket.
 
 Return back to the osTicket installer fill out the info under the database settings. Since you named the database osTicket make sure you enter osTicket under MySQL Database. Enter the MySQL Username and MySQL Password to then click install.
    
-   <p>
-![Screen Shot 2023-01-06 at 2 25 24 PM (2)](https://user-images.githubusercontent.com/120864279/211093859-e42abe57-2f33-4b03-b7df-9bf57541eeb4.png)
+<p>
+
+  ![Screen Shot 2023-01-06 at 2 25 24 PM (2)](https://user-images.githubusercontent.com/120864279/211093859-e42abe57-2f33-4b03-b7df-9bf57541eeb4.png)
      
      
  If everything has installed correctly you will see this screen. Congratulations you have successfully installed osTicket 
