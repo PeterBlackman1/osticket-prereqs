@@ -113,6 +113,9 @@ Change the name of the "upload" folder to "osTicket" when the file is finished c
  Open IIS and click on PHP Manager under the IIS group in the menu 
 <p>
   
+  
+ <p>
+  
 <img width="1440" alt="Enable extentions PHP manager pt 8" src="https://user-images.githubusercontent.com/120864279/210016510-fa000b16-ffb4-45da-a68e-6fa02878c55a.png">
 
   
