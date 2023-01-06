@@ -119,9 +119,21 @@ Change the name of the "upload" folder to "osTicket" when the file is finished c
 <img width="1440" alt="Enable extentions PHP manager pt 8" src="https://user-images.githubusercontent.com/120864279/210016510-fa000b16-ffb4-45da-a68e-6fa02878c55a.png">
 
   
-  Enabling extentions that are needed to improve localization. Enable the php_imap.dll, php_intl.dll, php_opache.dll extensions.
+  Enabling extentions that are needed to improve localization. Enable the php_intl.dl and php_opache.dll extensions.
 <p>
 
+  ![Screen Shot 2023-01-06 at 1 06 38 PM (2)](https://user-images.githubusercontent.com/120864279/211082386-65901eee-efa9-4bb0-8c8f-351409085130.png)
+
+Enabling the php_opache.dll extension
+
+<p>
+
+![Screen Shot 2023-01-06 at 1 07 15 PM (2)](https://user-images.githubusercontent.com/120864279/211082514-2cedadfe-9eef-4446-b006-526dc31519ed.png)
+
+Enabling the php_intl.dll extension 
+
+<p>
+  
 <img width="1440" alt="After refresh os pt 9" src="https://user-images.githubusercontent.com/120864279/210158218-60f7c1e3-d60d-40a2-9265-aa71718283c0.png">
 Screen after enabling extensions. Notice the Intl extension now has a check mark.
 
