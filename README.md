@@ -37,21 +37,15 @@ I'm going into the control panel to enable Internet Informations Systems with CG
 
 <p>
 
-  
+ <img width="1440" alt="Install PHP manager pt 0 5" src="https://user-images.githubusercontent.com/120864279/210012275-f718b78e-23e5-4722-a01f-caadf9d3cb4f.png">
 
-https://user-images.githubusercontent.com/120864279/210423971-4d648d8b-27c9-4dc5-9f83-b84f5c291941.mov
+Downloading and installing PHP Manager 1.5.0. for IIS 10
 
-  
-  
-Downloading the Web Platform Installer and open to install key components needed to run osTicket.
+</p> 
+
+
 
 <p>
-
-https://user-images.githubusercontent.com/120864279/210436025-5e8933b1-c1ee-4245-91e0-5cca54e751ff.mov
-
-Download and Add MySQL 5.5 and PHP Version 7.3.8 or any versions necessary.
-
- <p>
    
   
 <img width="1440" alt="Screen Shot 2023-01-03 at 1 56 09 PM" src="https://user-images.githubusercontent.com/120864279/210481815-d7112059-eead-4318-8473-fd24fe637c1a.png">
@@ -65,11 +59,7 @@ While adding My SQL this window appears asking the input the password to go with
 
 If there's any failures I go back and fix them by downloading the proper files. I download PHP Manager 1.5.0 for IIS and then Microsoft Visual C++ redistributable package.
    
-   
-<img width="1440" alt="Install PHP manager pt 0 5" src="https://user-images.githubusercontent.com/120864279/210012275-f718b78e-23e5-4722-a01f-caadf9d3cb4f.png">
-
-Downloading and installing PHP Manager 1.5.0. for IIS 10
-</p>
+ <p>
 
 
 <img width="1440" alt="Screen Shot 2023-01-04 at 2 16 28 PM" src="https://user-images.githubusercontent.com/120864279/210641987-a57ba4ad-ac72-4444-83e3-f32b8726d848.png">
