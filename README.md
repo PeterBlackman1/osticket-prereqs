@@ -29,11 +29,11 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 
 <h2>Installation Steps</h2>
 
-https://user-images.githubusercontent.com/120864279/210416032-df9ac818-54f2-4c18-928f-b7a05b2332be.mp4
+https://user-images.githubusercontent.com/120864279/212370084-3b95072e-109e-430a-8b53-567cf7a56d40.mp4
 
 
 
-I'm going into the control panel to enable Internet Informations Systems so I'll be able to deploy the osTicket on the web server.
+I'm going into the control panel to enable Internet Informations Systems with CGI, therefore; I'll be able to deploy the osTicket on the web server. I go to the control panel -> programs -> turn windows features off -> IIS -> World Wide Web Services -> Application Development Features -> CGI 
 
 <p>
 
