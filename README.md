@@ -63,25 +63,22 @@ Downloading and Installing the Rewrite Module.
  
 <p>
   
-<img width="1440" alt="Screen Shot 2023-01-03 at 1 56 09 PM" src="https://user-images.githubusercontent.com/120864279/210481815-d7112059-eead-4318-8473-fd24fe637c1a.png">
-
-While adding My SQL this window appears asking the input the password to go with the root username the password is Password1. After I enter the password and continue I let the files continue to be added. After complete I check to see if there are any failures that I need to fix.
-
-<p>
-
-<img width="1440" alt="Screen Shot 2023-01-03 at 10 50 55 PM" src="https://user-images.githubusercontent.com/120864279/210486675-477e4a14-864f-4181-81bb-a9c880b32f9d.png">
-
-
-If there's any failures I go back and fix them by downloading the proper files. I download PHP Manager 1.5.0 for IIS and then Microsoft Visual C++ redistributable package.
-   
- <p>
-
-
-<img width="1440" alt="Screen Shot 2023-01-04 at 2 16 28 PM" src="https://user-images.githubusercontent.com/120864279/210641987-a57ba4ad-ac72-4444-83e3-f32b8726d848.png">
+ <img width="1440" alt="Screen Shot 2023-01-04 at 2 16 28 PM" src="https://user-images.githubusercontent.com/120864279/210641987-a57ba4ad-ac72-4444-83e3-f32b8726d848.png">
 
 Downloading the Microsoft Visual C++ redistributable package.
+ 
+<p>
+ 
+https://user-images.githubusercontent.com/120864279/212492659-352e3ded-f1f0-4e39-8d70-ff1db3d3d808.mp4
+ 
+Downloading and Installing the MySQL 5.5.62. After I download the file I open it and start the setup. I do typical setup -> Launch Configuration Wizard -> Standard Configuration -> then enter Password1 as the password.
+   
+<p>
 
-  <p>
+
+
+
+<p>
   
 <img width="1440" alt="Copy upload file into Inetpub pt 3" src="https://user-images.githubusercontent.com/120864279/209999150-23d8b40b-d91b-4f6b-9521-0099157bc508.png">
   
@@ -116,6 +113,7 @@ Change the name of the "upload" folder to "osTicket" when the file is finished c
 <img width="1440" alt="PHP Manager ph 17" src="https://user-images.githubusercontent.com/120864279/210015329-58704545-0644-4464-95b8-a4277e10c505.png">
 
  Open IIS and click on PHP Manager under the IIS group in the menu 
+
 <p>
   
   
