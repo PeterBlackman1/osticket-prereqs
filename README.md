@@ -46,11 +46,13 @@ Downloading and installing PHP Manager 1.5.0. for IIS 10
 
 https://user-images.githubusercontent.com/120864279/212438466-1ab3a554-a0ff-4871-8d9b-ed090785c5e0.mp4
 
+Downloading and Installing the Rewrite Module.
 <p>
 
 
-![Screen Shot 2023-01-13 at 5 54 12 PM (2)](https://user-images.githubusercontent.com/120864279/212439302-1855991f-b4a3-4514-a2c6-b2cfd4b5a1f9.png)
+![Screen Shot 2023-01-13 at 5 54 12 PM (2)](https://user-images.githubusercontent.com/120864279/212481994-0de68ef5-5082-4a69-9491-f79bf7d883c3.png)
 
+ Creating a folder to store my PHP files. I made this folder in C:\PHP
 
 <p>
    
