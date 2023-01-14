@@ -112,7 +112,7 @@ Change the name of the "upload" folder to "osTicket" when the file is finished c
 
 <p>
 
-<img width="1440" alt="osTicket screen after browse pt 7" src="https://user-images.githubusercontent.com/120864279/210003667-eff3daf4-16a6-4a2a-9655-6764b6f760db.png">
+![Screen Shot 2023-01-14 at 3 25 59 PM (2)](https://user-images.githubusercontent.com/120864279/212497729-a31d15f8-060a-454c-add3-25e7a7a8f71e.png)
   
   Screen after clicking "Browse*:80" on the Internet Informations Systems page. 
 
@@ -150,9 +150,7 @@ Screen after enabling extensions. Notice the Intl extension now has a check mark
 
 <p>
 
-<img width="1440" alt="Rename ost pt 10" src="https://user-images.githubusercontent.com/120864279/210005917-da53e064-9560-4083-be0d-36dde561e6b0.png">
- Rename the C:\inetpub\wwwroots\osTicket\include\ost-sampleconfig.php 
-  to C:\inetpub\wwwroots\osTicket\include\ost-config.php 
+
 <p>
 
 
@@ -164,11 +162,13 @@ Right-click the ost-config folder then click properties - security - users - edi
 <p>
 
 <img width="1440" alt="osTicket Basic installation pt 13" src="https://user-images.githubusercontent.com/120864279/210006076-ac0839b7-5790-4889-9df3-18fe8b19bceb.png">
-After assigning permissions, I hit continue on the osTicket installer and it takes me to this screen. Here I fill out everything under the System settings and Admin User section. 
+
+ After assigning permissions, I hit continue on the osTicket installer and it takes me to this screen. Here I fill out everything under the System settings and Admin User section. 
 <p>
 
 <img width="1440" alt="Install Heidi pt 14" src="https://user-images.githubusercontent.com/120864279/210006102-24ca8d18-4436-4077-8137-15a946f016ba.png">
-After filling out the info install Heidi to create the database to use for osTicket.
+
+ After filling out the info install Heidi to create the database to use for osTicket.
 
 <p>
   
