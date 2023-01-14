@@ -74,9 +74,10 @@ https://user-images.githubusercontent.com/120864279/212492659-352e3ded-f1f0-4e39
 Downloading and Installing the MySQL 5.5.62. After I download the file I open it and start the setup. I do typical setup -> Launch Configuration Wizard -> Standard Configuration -> then enter Password1 as the password.
    
 <p>
+ 
+![Screen Shot 2023-01-14 at 2 04 58 PM (2)](https://user-images.githubusercontent.com/120864279/212494208-fed51f5b-93a0-4db9-9d50-693f0ad8d809.png)
 
-
-
+I open IIS as and administrator.
 
 <p>
   
