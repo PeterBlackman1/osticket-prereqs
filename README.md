@@ -55,7 +55,13 @@ Downloading and Installing the Rewrite Module.
  Creating a folder to store my PHP files. I made this folder in C:\PHP
 
 <p>
-   
+
+ https://user-images.githubusercontent.com/120864279/212490382-2abde39b-94c2-4381-81d2-23a9af75ae25.mp4
+ 
+ I downloaded PHP 7.3.8 zip file and extracted all the files in the folder to C:\PHP
+ 
+ 
+<p>
   
 <img width="1440" alt="Screen Shot 2023-01-03 at 1 56 09 PM" src="https://user-images.githubusercontent.com/120864279/210481815-d7112059-eead-4318-8473-fd24fe637c1a.png">
 
