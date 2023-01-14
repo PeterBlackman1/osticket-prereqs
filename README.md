@@ -80,6 +80,12 @@ Downloading and Installing the MySQL 5.5.62. After I download the file I open it
 I open IIS as and administrator.
 
 <p>
+
+ https://user-images.githubusercontent.com/120864279/212495604-79df4793-f52e-4a3d-8713-8807a701ac0d.mp4
+ 
+Registering the PHP 7.3 download as the version im going to use to set up osTicket.
+ 
+<p>
   
 <img width="1440" alt="Copy upload file into Inetpub pt 3" src="https://user-images.githubusercontent.com/120864279/209999150-23d8b40b-d91b-4f6b-9521-0099157bc508.png">
   
@@ -100,7 +106,7 @@ Change the name of the "upload" folder to "osTicket" when the file is finished c
 <img width="1440" alt="Screen Shot 2022-12-29 at 4 10 12 PM" src="https://user-images.githubusercontent.com/120864279/210015802-1771ea64-86a6-41b9-969a-f29a6e489a1e.png">
 
 
-  I open Internet Informations Systems (IIS) as adn administrator. and click stop then start on the right side of the panel. Once machine starts I click the dropdown arrow next the the name under connections, sites, Default Web Site, and the osTicket. After clicking osTicket I click the "Browse*:80 (http)" button on the right side of the page and the browser opens.
+  I open Internet Informations Systems (IIS) and click stop then start on the right side of the panel. Once machine starts I click the dropdown arrow next the the name under connections, sites, Default Web Site, and the osTicket. After clicking osTicket I click the "Browse*:80 (http)" button on the right side of the page and the browser opens.
   
 
 <p>
