@@ -63,7 +63,8 @@ Downloading and Installing the Rewrite Module.
  
 <p>
   
- <img width="1440" alt="Screen Shot 2023-01-04 at 2 16 28 PM" src="https://user-images.githubusercontent.com/120864279/210641987-a57ba4ad-ac72-4444-83e3-f32b8726d848.png">
+ ![Screen Shot 2023-01-14 at 3 05 03 PM (2)](https://user-images.githubusercontent.com/120864279/212496835-63ec070a-e4e7-4a8a-b732-fe7ebd6df911.png)
+
 
 Downloading the Microsoft Visual C++ redistributable package.
  
