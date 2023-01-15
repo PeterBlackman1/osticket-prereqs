@@ -107,7 +107,7 @@ Change the name of the "upload" folder to "osTicket" when the file is finished c
 <img width="1440" alt="Screen Shot 2022-12-29 at 4 10 12 PM" src="https://user-images.githubusercontent.com/120864279/210015802-1771ea64-86a6-41b9-969a-f29a6e489a1e.png">
 
 
-  I open Internet Informations Systems (IIS) and click stop then start on the right side of the panel. Once machine starts I click the dropdown arrow next the the name under connections, sites, Default Web Site, and the osTicket. After clicking osTicket I click the "Browse*:80 (http)" button on the right side of the page and the browser opens.
+  I open Internet Informations Systems (IIS) and click stop then start on the right side of the panel. Once machine starts I click the dropdown arrow next to sites -> Default Web Site -> and the osTicket. After clicking osTicket I click the "Browse*:80 (http)" button on the right side of the page and the browser opens.
   
 
 <p>
@@ -127,26 +127,16 @@ Change the name of the "upload" folder to "osTicket" when the file is finished c
   
  <p>
   
-<img width="1440" alt="Enable extentions PHP manager pt 8" src="https://user-images.githubusercontent.com/120864279/210016510-fa000b16-ffb4-45da-a68e-6fa02878c55a.png">
+https://user-images.githubusercontent.com/120864279/212502280-fb9dc734-08b8-4b87-a8af-abc4ba30fb3e.mp4
+
 
   
-  Enabling extentions that are needed to improve localization. Enable the php_intl.dl and php_opache.dll extensions.
+  Enabling extentions that are needed to improve localization. Enable the php_imap, php_intl.dl, and php_opache.dll extensions.
 <p>
 
-  ![Screen Shot 2023-01-06 at 1 06 38 PM (2)](https://user-images.githubusercontent.com/120864279/211082386-65901eee-efa9-4bb0-8c8f-351409085130.png)
-
-Enabling the php_opache.dll extension
-
-<p>
-
-![Screen Shot 2023-01-06 at 1 07 15 PM (2)](https://user-images.githubusercontent.com/120864279/211082514-2cedadfe-9eef-4446-b006-526dc31519ed.png)
-
-Enabling the php_intl.dll extension 
-
-<p>
-  
-<img width="1440" alt="After refresh os pt 9" src="https://user-images.githubusercontent.com/120864279/210158218-60f7c1e3-d60d-40a2-9265-aa71718283c0.png">
-Screen after enabling extensions. Notice the Intl extension now has a check mark.
+ <img width="1440" alt="Screen Shot 2023-01-14 at 5 56 01 PM" src="https://user-images.githubusercontent.com/120864279/212502372-d58f5b70-068e-4db2-95da-f962342b549b.png">
+ 
+ After refreshing the browser this is how the screen looks after enabling extentions 
 
 <p>
 
@@ -155,7 +145,7 @@ Screen after enabling extensions. Notice the Intl extension now has a check mark
 
 
 <img width="1440" alt="Disable inheritance pt 11" src="https://user-images.githubusercontent.com/120864279/210005943-88302711-3a12-4df8-8765-87dc3922d1af.png">
-Right-click the ost-config folder then click properties - security - users - edit - users -  full control - apply - okay
+Right-click the ost-config folder then click properties -> security -> users -> edit -> users ->  full control -> apply -> okay
 <p>
 
 
