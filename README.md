@@ -140,12 +140,15 @@ https://user-images.githubusercontent.com/120864279/212502280-fb9dc734-08b8-4b87
 
 <p>
 
+ https://user-images.githubusercontent.com/120864279/212502746-72370c7d-88aa-4065-85e9-efd19af1aa83.mp4
+
+Renaming the C:\inetpub\wwwroot\osTicket\include\ost-sampleconfig.php folder to C:\inetpub\wwwroot\osTicket\include\ost-config.php
 
 <p>
 
 
 <img width="1440" alt="Disable inheritance pt 11" src="https://user-images.githubusercontent.com/120864279/210005943-88302711-3a12-4df8-8765-87dc3922d1af.png">
-Right-click the ost-config folder then click properties -> security -> users -> edit -> users ->  full control -> apply -> okay
+Assigning permissions to the ost-cofig.php folder. So I Right-click the ost-config folder then click properties -> security -> users -> edit -> users ->  full control -> apply -> okay
 <p>
 
 
